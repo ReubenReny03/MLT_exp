@@ -5,4 +5,4 @@ pull requests will be accepted if<br>
 3. You made a folder or a experiment that i have not uploaded
 
 # Backlogs
-1. Ex 3 LOGISTIC REGRESSION some ending parts needs to be added
+Ex 7,8,0,10 are fast codes they are not checked properly but are easy to understand
